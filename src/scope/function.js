@@ -7,5 +7,5 @@ function greeting(){
         console.log(`No te identifico`)
     }
 }
-console.log(username,'out')
 greeting()
+//console.log(username,'out')//error dont have this variable in this scope

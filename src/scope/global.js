@@ -21,3 +21,5 @@ function countries(){
 
 countries() //col
 console.log('out',country) // col
+
+
